@@ -1,1 +1,0 @@
-{"@context":"https://schema.org","@type":"WebApplication","name":"Qevrulix Dare","applicationCategory":"GameApplication","operatingSystem":"Any","url":"https://qevrulix.vercel.app/","description":"Free dare game for 1 to 8 players.","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}}
